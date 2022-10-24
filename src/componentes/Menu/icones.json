@@ -1,0 +1,32 @@
+[
+    {
+        "path": "/assets/icones/home-ativo.png",
+        "alt": "Ícone de uma casa",
+        "link": "Home",
+        "id": 1
+    },
+    {
+        "path": "/assets/icones/mais-vistas-inativo.png",
+        "alt": "Ícone de um olho",
+        "link": "Mais Vistas",
+        "id": 2
+    },
+    {
+        "path": "/assets/icones/mais-curtidas-inativo.png",
+        "alt": "Ícone de curtir",
+        "link": "Mais Curtidas",
+        "id": 3
+    },
+    {
+        "path": "/assets/icones/novas-inativo.png",
+        "alt": "Ícone de estrelas",
+        "link": "Novas",
+        "id": 4
+    },
+    {
+        "path": "/assets/icones/surpreenda-me-inativo.png",
+        "alt": "Ícone de lâmpada",
+        "link": "Surpreenda-me",
+        "id": 5
+    }
+]

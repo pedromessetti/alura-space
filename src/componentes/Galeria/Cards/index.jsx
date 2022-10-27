@@ -2,8 +2,8 @@ import React from 'react'
 import open from './open.png'
 import favorito from './favorito.png'
 
-
 export default function Card({ itens, styles }) {
+  
   return (
     <ul className={styles.galeria__cards}>
     {itens.map((item) => {
@@ -14,8 +14,8 @@ export default function Card({ itens, styles }) {
           <div>
             <p>{item.creditos}</p>
             <span>
-              <img src={open} alt="Ícone de curtir" />
-              <img src={favorito} alt="Ícone de expandir" />
+              <img src={open} alt="Ícone de expandir" />
+              <img src={favorito} alt="Ícone de curtir" />
             </span>
           </div>
         </li>

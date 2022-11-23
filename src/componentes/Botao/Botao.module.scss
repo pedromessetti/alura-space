@@ -1,0 +1,15 @@
+.botao {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.botao:hover {
+    color: #95ffd4;
+}
+
+@media screen and (max-width:920px) {
+    .botao {
+        font-size: .8em;
+    }
+}
